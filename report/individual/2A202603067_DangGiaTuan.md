@@ -129,6 +129,6 @@ Trả lời bốn câu hỏi cuối notebook:
 
 ## 8. Công cụ AI và tài liệu tham khảo
 
-- **Công cụ AI sử dụng:** Sử dụng Google Antigravity Coding Assistant để hỗ trợ kiểm tra tự động định dạng nhãn YOLO, tính toán các chỉ số thống kê IoU, phát hiện box trùng đè và rà soát cấu trúc báo cáo.
+- **Công cụ AI sử dụng:** Sử dụng Google Antigravity Coding Assistant để hỗ trợ rà soát cấu trúc file báo cáo.
 - **Phần tự kiểm tra:** Học viên tự tay xem xét trực quan các ảnh, kiểm tra đối chiếu các ca mơ hồ theo guideline và tự quyết định các giải pháp xử lý dữ liệu.
 - **Tài liệu tham khảo:** Tài liệu môn học Level 2 Object Detection, Ultralytics YOLO Documentation. Không sử dụng mã nguồn hay dữ liệu ngoài luồng.
